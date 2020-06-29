@@ -1,0 +1,8 @@
+inspecode:
+  gosec: default
+  experimental:
+    runtime:
+      go: 1.13
+    env:
+      GO111MODULE: on 
+      GOPRIVATE: github.com/drymifolia
